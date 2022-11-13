@@ -1,0 +1,13 @@
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.AssemblyReference.cache
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.CoreCompileInputs.cache
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\bin\Debug\AircompanyTests.dll
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\bin\Debug\AircompanyTests.pdb
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\bin\Debug\Aircompany.exe
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\bin\Debug\nunit.framework.dll
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\bin\Debug\Aircompany.pdb
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\bin\Debug\Aircompany.exe.config
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\bin\Debug\nunit.framework.pdb
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\bin\Debug\nunit.framework.xml
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.CopyComplete
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\obj\Debug\AircompanyTests.dll
+D:\Тестирование_epam\Лаба 6\aircompany\Net\AircompanyTests\obj\Debug\AircompanyTests.pdb

@@ -1,0 +1,8 @@
+D:\Тестирование_epam\Лаба 6\aircompany\Net\Aircompany\bin\Debug\Aircompany.exe.config
+D:\Тестирование_epam\Лаба 6\aircompany\Net\Aircompany\bin\Debug\Aircompany.exe
+D:\Тестирование_epam\Лаба 6\aircompany\Net\Aircompany\bin\Debug\Aircompany.pdb
+D:\Тестирование_epam\Лаба 6\aircompany\Net\Aircompany\obj\Debug\Aircompany.csproj.AssemblyReference.cache
+D:\Тестирование_epam\Лаба 6\aircompany\Net\Aircompany\obj\Debug\Aircompany.csproj.SuggestedBindingRedirects.cache
+D:\Тестирование_epam\Лаба 6\aircompany\Net\Aircompany\obj\Debug\Aircompany.csproj.CoreCompileInputs.cache
+D:\Тестирование_epam\Лаба 6\aircompany\Net\Aircompany\obj\Debug\Aircompany.exe
+D:\Тестирование_epam\Лаба 6\aircompany\Net\Aircompany\obj\Debug\Aircompany.pdb
